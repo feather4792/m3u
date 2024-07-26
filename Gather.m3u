@@ -369,3 +369,7 @@ http://live.iill.top/huya.php?id=11601966
 http://live.iill.top/huya.php?id=11352879
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视",中华小当家「动漫」
 http://live.iill.top/huya.php?id=11342413
+#EXTINF：-1，广州综合
+http://116.199.5.58:8114/index.m3u8?
+3Fsv_chan_hls_se_idx=2&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Pro
+vider_id=&Pcontent_id=.m3u8
